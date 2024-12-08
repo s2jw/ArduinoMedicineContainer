@@ -21,5 +21,7 @@
     - 피에조 부저 & 진동 모터 : 알람 구현
     - 스텝 모터 : 약통을 돌려 약 나오도록
     - 초음파 센서 : 손 감지
-
+ 
+  
+### Tool
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
